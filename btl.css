@@ -1,0 +1,32 @@
+
+.box{
+    width: 100%;
+    height: auto;
+    background-color: rgb(221, 166, 166);
+    display: flex;
+}
+.box img{
+    width: 25%;
+    height: 95%;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.box .vb1{
+    color: white;
+    font-size: 55px;
+}
+.box .vb2{
+    color: white;
+    font-size: 30px;
+}
+.box .content{
+    padding: 150px;
+}
+.box1{
+    text-align: center;
+}
+.box1 .bang .anh{
+    width: 99%;
+    height: 200px;   
+}
